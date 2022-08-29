@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Custom%3A Support Profile</members>
-        <name>Profile</name>
+        <members>CaseOperations</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>CasePremierPriority</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Case.Is_Premier_Account__c</members>
+        <name>CustomField</name>
     </types>
     <version>55.0</version>
 </Package>
