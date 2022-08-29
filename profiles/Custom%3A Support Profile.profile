@@ -165,6 +165,13 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+ feature/US-0000010
+
+        <apexClass>CaseOperationsTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+main
         <apexClass>copado__ADD_DependencyHandler</apexClass>
         <enabled>false</enabled>
     </classAccesses>
