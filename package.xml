@@ -14,7 +14,6 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Admin</members>
         <members>Custom%3A Support Profile</members>
         <name>Profile</name>
     </types>
