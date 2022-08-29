@@ -12,5 +12,9 @@
         <members>Case.Is_Premier_Account__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Custom%3A Support Profile</members>
+        <name>Profile</name>
+    </types>
     <version>55.0</version>
 </Package>
