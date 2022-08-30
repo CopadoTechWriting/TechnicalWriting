@@ -9,7 +9,7 @@
         <name>ApexTrigger</name>
     </types>
     <types>
-        <members>Case.Is_Premier_Account__c</members>
+        <members>Case.Is_this_an_escalated_case__c</members>
         <name>CustomField</name>
     </types>
     <types>
