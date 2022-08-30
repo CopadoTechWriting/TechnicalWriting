@@ -305,6 +305,16 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>Is_this_an_escalated_case__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Is this an escalated case?</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>MilestoneStatus</fullName>
         <trackTrending>false</trackTrending>
     </fields>
