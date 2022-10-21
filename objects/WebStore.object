@@ -141,6 +141,6 @@
         <fullName>SupportedLanguages</fullName>
         <inlineHelpText>The languages to make available to buyers. Language options come from Translation Workbench.</inlineHelpText>
     </fields>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
